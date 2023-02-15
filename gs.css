@@ -1,0 +1,29 @@
+.speech{
+    font-style: italic;
+    color:black;
+    font-size:20px;
+}
+
+.direction{
+    font-style: Serif;
+    color:black;
+    font-size: 20px;
+    background-color: teal;
+
+}
+
+.direction:hover {
+    background-color:rgb(97, 11, 20);
+    color:lavenderblush;
+    font-size: 20px;
+  }
+
+  .HE{
+    background-color: cyan;
+    font-style: Serif;
+  }
+
+  .SHE{
+    background-color: pink;
+    font-style:Sans-serif ;
+  }
