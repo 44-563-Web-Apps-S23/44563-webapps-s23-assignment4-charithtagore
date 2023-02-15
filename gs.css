@@ -60,3 +60,21 @@
   tr:nth-child(odd) {
     background-color: rgb(142, 215, 64);
 }
+.SHE:hover{
+  width: 100px;
+  height: 30px;
+  padding: 15px;
+  background-color: rgb(163, 55, 16);
+  box-shadow: 10px 10px 5px rgb(30, 0, 85);
+  text-shadow: 2px 2px rgb(55, 232, 15);
+  font-size: 25px;
+}
+.HE:hover{
+  width: 150px;
+  height: 30px;
+  padding: 15px;
+  background-color: rgb(81, 220, 223);
+  box-shadow: 10px 10px 5px rgb(250, 4, 33);
+  text-shadow: 2px 2px rgb(144, 231, 6);
+  font-size: 20px;
+}
