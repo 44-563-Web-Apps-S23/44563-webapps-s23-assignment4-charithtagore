@@ -27,3 +27,36 @@
     background-color: pink;
     font-style:Sans-serif ;
   }
+  .table{
+    border: 6px solid;
+    width:35%;
+    padding: 4px;
+    border-spacing: 4px;
+    border-color: rgb(17, 235, 235);
+    margin: 0 25px 25px 0;
+    
+  }
+  .th{
+    
+    height: 50px;
+    text-align: center;
+    border-bottom: 6px solid #ec0882;
+    border-top: 2px solid #ec0882;
+    border-left: 3px solid #ec0882;
+    border-right: 3px solid #ec0882;
+
+
+  }
+  .td{
+    border: 2px solid #33e388;
+    height: 30px;
+    vertical-align: bottom;
+    padding: 15px;
+    border-bottom: 6px solid #33e388; 
+  }
+  tr:nth-child(even) {
+    background-color: rgb(103, 103, 245);
+  }
+  tr:nth-child(odd) {
+    background-color: rgb(142, 215, 64);
+}
